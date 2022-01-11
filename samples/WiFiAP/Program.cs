@@ -17,7 +17,7 @@ namespace WiFiAP
         static int connectedCount = 0;
 
         // GPIO pin used to put device into AP set-up mode
-        const int SETUP_PIN = 5;
+        const int SETUP_PIN = 15;
 
         public static void Main()
         {
